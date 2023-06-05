@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.seatour"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:5:5-33:19
+12        android:allowBackup="true"
+12-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/b4072756c12a8692ee73712e28feb387/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:10:9-41
+20        android:supportsRtl="false"
+20-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:11:9-36
+21        android:testOnly="true"
+22        android:theme="@style/Theme.SeaTour" >
+22-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:12:9-45
+23        <activity
+23-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:14:9-22:20
+24            android:name="com.example.seatour.MainActivity"
+24-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:15:13-41
+25            android:exported="true" >
+25-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:16:13-36
+26            <intent-filter>
+26-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:18:17-69
+27-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:20:17-77
+29-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:23:9-32:20
+33            android:name="com.example.seatour.DatePickers"
+33-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:24:13-40
+34            android:exported="true" >
+34-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:25:13-36
+35            <intent-filter>
+35-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:17:13-21:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:18:17-69
+36-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:18:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:20:17-77
+38-->/Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:20:27-74
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>

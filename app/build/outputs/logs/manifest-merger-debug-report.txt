@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/aljazi/.gradle/caches/transforms-3/283156f4c1e1b81a614e428c08ee07bb/transformed/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d735fd53a2ea0931c15a43e2a4f7d072/transformed/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d850ce03b7d1f6ddbaa008672175b1ca/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/aljazi/.gradle/caches/transforms-3/a933bda8b4825d399ac6951109587549/transformed/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/7f94b8b4ac74eeb51ca4a8d24d939c2f/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/caa3f5f260d9a85e6bdaa9e293d08b69/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/3e704efa06c1d384b5ec873b54cb1396/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d0f344a0b89e9362aff14a1c8fafcaff/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/02f0ae4c2ecc6704d5b6521aca982b91/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ff44cece920fcae271e68ddaef05e20a/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/5dfbaa4c5320b6d5c447817de7d1eaa7/transformed/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/a82e423a3a297c643309d7a3f8f1b64f/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/c165df84f97d79de07e525b6bef5b709/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/6df5485aee3621e30103a0e2b3768f44/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/92ee346cb65744400325bcfe0a8ce2b7/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ec80386013948ad543ea80c9acc3c8f1/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/2fd2ba458025167c6e5f6d64c91b0157/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/78621235a94cfee5a599aff6af65d525/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/99d5cabf6026cf32d7c8546136ca60e2/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/b4072756c12a8692ee73712e28feb387/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/10a68c3dc39eedd61833bcb78d08920f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/3323f60e887112352f6ff1b19b089b48/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/43c8656537d80c8e7720fa0f6488c610/transformed/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/bae883a23bd964b9fc8a18c15fd5d454/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/afdd516d258bb0c1f7ccd6397fb137b1/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/a0183cfd36890b7b05afd525f978a6f0/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ec93a113ab33956b28a0af094b642613/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/8310ea3abce3d6ec09f80b5b27f7ee42/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/fef16ad062d01ee4ffcd601db8190773/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/ffe208348fd0d57c7250a7558dec8692/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/19844470dcbb6ef508323cce4cae5c8e/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/f9ff3964594996d7e1d40fd19bfa6ef1/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/aljazi/.gradle/caches/transforms-3/283156f4c1e1b81a614e428c08ee07bb/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/aljazi/.gradle/caches/transforms-3/283156f4c1e1b81a614e428c08ee07bb/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d735fd53a2ea0931c15a43e2a4f7d072/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d735fd53a2ea0931c15a43e2a4f7d072/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/aljazi/.gradle/caches/transforms-3/a933bda8b4825d399ac6951109587549/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/aljazi/.gradle/caches/transforms-3/a933bda8b4825d399ac6951109587549/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/b4072756c12a8692ee73712e28feb387/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/b4072756c12a8692ee73712e28feb387/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/10a68c3dc39eedd61833bcb78d08920f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/10a68c3dc39eedd61833bcb78d08920f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/b4072756c12a8692ee73712e28feb387/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:11:9-36
+	android:label
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:12:9-45
+	android:dataExtractionRules
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.example.seatour.MainActivity
+ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.seatour.DatePickers
+ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:23:9-32:20
+	android:exported
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml:24:13-40
+uses-sdk
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/aljazi/.gradle/caches/transforms-3/283156f4c1e1b81a614e428c08ee07bb/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/aljazi/.gradle/caches/transforms-3/283156f4c1e1b81a614e428c08ee07bb/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d735fd53a2ea0931c15a43e2a4f7d072/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d735fd53a2ea0931c15a43e2a4f7d072/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d850ce03b7d1f6ddbaa008672175b1ca/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d850ce03b7d1f6ddbaa008672175b1ca/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/aljazi/.gradle/caches/transforms-3/a933bda8b4825d399ac6951109587549/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/aljazi/.gradle/caches/transforms-3/a933bda8b4825d399ac6951109587549/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/7f94b8b4ac74eeb51ca4a8d24d939c2f/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/7f94b8b4ac74eeb51ca4a8d24d939c2f/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/caa3f5f260d9a85e6bdaa9e293d08b69/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/caa3f5f260d9a85e6bdaa9e293d08b69/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/3e704efa06c1d384b5ec873b54cb1396/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/3e704efa06c1d384b5ec873b54cb1396/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d0f344a0b89e9362aff14a1c8fafcaff/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/d0f344a0b89e9362aff14a1c8fafcaff/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/02f0ae4c2ecc6704d5b6521aca982b91/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/02f0ae4c2ecc6704d5b6521aca982b91/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ff44cece920fcae271e68ddaef05e20a/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ff44cece920fcae271e68ddaef05e20a/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/5dfbaa4c5320b6d5c447817de7d1eaa7/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/5dfbaa4c5320b6d5c447817de7d1eaa7/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/a82e423a3a297c643309d7a3f8f1b64f/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/a82e423a3a297c643309d7a3f8f1b64f/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/c165df84f97d79de07e525b6bef5b709/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/c165df84f97d79de07e525b6bef5b709/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/6df5485aee3621e30103a0e2b3768f44/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/6df5485aee3621e30103a0e2b3768f44/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/92ee346cb65744400325bcfe0a8ce2b7/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/92ee346cb65744400325bcfe0a8ce2b7/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ec80386013948ad543ea80c9acc3c8f1/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ec80386013948ad543ea80c9acc3c8f1/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/2fd2ba458025167c6e5f6d64c91b0157/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/2fd2ba458025167c6e5f6d64c91b0157/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/78621235a94cfee5a599aff6af65d525/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/78621235a94cfee5a599aff6af65d525/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/99d5cabf6026cf32d7c8546136ca60e2/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/99d5cabf6026cf32d7c8546136ca60e2/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/b4072756c12a8692ee73712e28feb387/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/b4072756c12a8692ee73712e28feb387/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/10a68c3dc39eedd61833bcb78d08920f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/10a68c3dc39eedd61833bcb78d08920f/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/3323f60e887112352f6ff1b19b089b48/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/3323f60e887112352f6ff1b19b089b48/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/43c8656537d80c8e7720fa0f6488c610/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/43c8656537d80c8e7720fa0f6488c610/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/bae883a23bd964b9fc8a18c15fd5d454/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/bae883a23bd964b9fc8a18c15fd5d454/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/afdd516d258bb0c1f7ccd6397fb137b1/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/afdd516d258bb0c1f7ccd6397fb137b1/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/a0183cfd36890b7b05afd525f978a6f0/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/a0183cfd36890b7b05afd525f978a6f0/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ec93a113ab33956b28a0af094b642613/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/ec93a113ab33956b28a0af094b642613/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/8310ea3abce3d6ec09f80b5b27f7ee42/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/8310ea3abce3d6ec09f80b5b27f7ee42/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/fef16ad062d01ee4ffcd601db8190773/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/aljazi/.gradle/caches/transforms-3/fef16ad062d01ee4ffcd601db8190773/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/ffe208348fd0d57c7250a7558dec8692/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/ffe208348fd0d57c7250a7558dec8692/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/19844470dcbb6ef508323cce4cae5c8e/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/19844470dcbb6ef508323cce4cae5c8e/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/f9ff3964594996d7e1d40fd19bfa6ef1/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/aljazi/.gradle/caches/transforms-3/f9ff3964594996d7e1d40fd19bfa6ef1/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aljazi/Downloads/Sea Tour 2/app/src/main/AndroidManifest.xml

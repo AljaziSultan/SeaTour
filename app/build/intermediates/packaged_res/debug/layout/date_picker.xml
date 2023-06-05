@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+            tools:context=".DatePickers">
+
+        <EditText
+            android:id="@+id/eventNameET"
+            android:layout_width="214dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="36dp"
+            android:ems="10"
+            android:hint="Mohammed"
+            android:inputType="text"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toTopOf="@+id/in_date"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.509"
+            app:layout_constraintStart_toEndOf="@+id/textView"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="171dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:text="Passanger Name:"
+            android:textAlignment="center"
+            android:textColor="@color/ToolBar_SeaTour"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="3dp"
+            tools:layout_editor_absoluteY="153dp" />
+
+        <EditText
+            android:id="@+id/in_date"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginBottom="60dp"
+            android:hint="@string/indate"
+
+            android:minHeight="48dp"
+            app:layout_constraintBottom_toTopOf="@+id/in_time"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.621"
+            app:layout_constraintStart_toEndOf="@+id/btn_date"
+            tools:ignore="MissingConstraints" />
+
+        <Button
+            android:id="@+id/btn_date"
+            android:layout_width="109dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="36dp"
+            android:background="@color/Yellow_SeaTour"
+            android:text="SELECT DATE"
+            android:textColor="#5D4037"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteY="280dp" />
+
+        <EditText
+            android:id="@+id/in_time"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/in_date"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="120dp"
+            android:hint="@string/intime"
+            android:minHeight="48dp"
+            app:layout_constraintBottom_toTopOf="@+id/button2"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.621"
+            app:layout_constraintStart_toEndOf="@+id/btn_time" />
+
+        <Button
+            android:id="@+id/btn_time"
+            android:layout_width="109dp"
+            android:layout_height="48dp"
+
+            android:layout_below="@+id/btn_date"
+            android:layout_alignStart="@+id/btn_date"
+            android:layout_alignLeft="@+id/btn_date"
+            android:layout_marginStart="36dp"
+            android:background="@color/Yellow_SeaTour"
+            android:text="SELECT TIME"
+            android:textColor="#5D4037"
+            app:layout_constraintBottom_toTopOf="@+id/button2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_date"
+            app:layout_constraintVertical_bias="0.362" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="111dp"
+            android:layout_height="51dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="172dp"
+            android:background="@color/Yellow_SeaTour"
+            android:onClick="saveEventAction"
+            android:text="Save"
+            android:textColor="#616161"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.44"
+            app:layout_constraintStart_toStartOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

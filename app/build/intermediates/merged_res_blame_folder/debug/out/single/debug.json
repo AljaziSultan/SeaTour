@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_remove_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_remove_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_home_fragment.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/home_fragment.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_calendar_activity.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/calendar_activity.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_header.png.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/header.png"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_ogout_icon.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/ogout_icon.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_info_icon.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/info_icon.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/menu_toolbar_menu.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_fragment_log_out.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/fragment_log_out.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_home_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_fragment_edit_profile.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/fragment_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_fragment_search.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_activity_main.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/anim_slide_in.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/anim/slide_in.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_about_fragment.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/about_fragment.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_video_library_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_video_library_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.seatour.app-merged_res-14:/layout_date_picker.xml.flat",
+        "source": "com.example.seatour.app-main-16:/layout/date_picker.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_button_bk_defalut.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/button_bk_defalut.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/menu_bottom_menu.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_nav_header.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_profile.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/profile.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/xml_backup_rules.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_cal_cell.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/cal_cell.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_cate_icon.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/cate_icon.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_clear_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_clear_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_profile_fragment.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/profile_fragment.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_account_circle_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/anim_slide_out.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/anim/slide_out.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_bottomsheetlayout.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/bottomsheetlayout.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_input_style.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/input_style.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_search_icon.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_fragment_book.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/fragment_book.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_fragment_cart.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_message_icon.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/message_icon.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_dialog.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/dialog.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_button_bk.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/button_bk.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_calendar_month_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_contact_fragment.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/contact_fragment.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_date_picker.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/date_picker.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_userimgdefault.png.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/userimgdefault.png"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_map_icon.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/map_icon.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_categories_fragment.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/categories_fragment.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_contactus_icon.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/contactus_icon.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_baseline_upload_24.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/baseline_upload_24.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/layout_fragment_messages.xml.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-merged_res-14:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/aljazi/.gradle/daemon/7.5/com.example.seatour.app-main-16:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]
